@@ -4,6 +4,6 @@ Slope Intercept: $y=mx+b$ This is used to find the place on the y axis where the
 
 Slope: $m=(y2-y1)/(x2-x1)$ This is used to find the slope of the graph line, which is rise (The y axis) over run (the x axis)
 
-Point Slope: $y-y1(x-m)$ **EXPLINATION NEEDED**
+Point Slope: $y-y1(x-m)$ This is used to draw the graph line if you know the slope and 1 point on the line.
 
 Together, these formulas allow us to find the slope and intercepts of graph lines.
