@@ -1,0 +1,2 @@
+SSS and SAS are acronyms. SSS stands for Side-Side-Side and SAS stands for Side-Angle-Side.
+This is used to figure out if 2 or more triangles are [[Congruency|Congruent]] . SSS means that is all of the sides are of an equivalent ratio, then they are congruent. SAS means that if a side, and the angle between another side are all equivalent then they are congruent.

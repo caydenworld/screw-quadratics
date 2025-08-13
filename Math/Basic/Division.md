@@ -1,0 +1,1 @@
+Division is the opposite of multiplication, instead you remove the number. For instance: $25\div5=25-5-5-5-5-5=5$ because $5\times5=25$  
