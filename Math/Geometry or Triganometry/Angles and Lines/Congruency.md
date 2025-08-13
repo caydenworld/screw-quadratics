@@ -3,7 +3,7 @@ Congruency means that two or more shapes are the same shape and size, or have th
 ```
 5/\5
  --
-05
+ 05
 ```
  Is the same as this one:
 ```
